@@ -4,6 +4,7 @@ import Contador from './componentes/contador';
 import freeCodeCampLogo from './imagenes/freecodecamp-logo.png'
 import { useState } from 'react';
 
+
 function App() {
 
   const [numClics, setNumClics] = useState(0);
